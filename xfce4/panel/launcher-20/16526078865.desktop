@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Settings Manager
+Comment=Graphical Settings Manager for Xfce
+Exec=xfce4-settings-manager
+Icon=systemsettings
+Path=
+Terminal=false
+StartupNotify=false

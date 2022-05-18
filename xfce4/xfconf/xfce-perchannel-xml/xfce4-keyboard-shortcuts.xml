@@ -41,7 +41,7 @@
         <property name="startup-notify" type="bool" value="true"/>
       </property>
       <property name="override" type="bool" value="true"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="htop"/>
+      <property name="&lt;Super&gt;d" type="string" value="dmenu_run"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

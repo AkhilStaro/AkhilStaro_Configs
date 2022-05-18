@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Qalculate!
+Comment=Powerful and easy to use calculator
+Exec=qalculate-gtk
+Icon=qalculate
+Path=
+Terminal=false
+StartupNotify=true
